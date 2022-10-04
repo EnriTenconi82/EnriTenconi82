@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enrico Tenconi</h1>
-<h3 align="left">I'm from Rosario, Argentina. I've resumed studying programming after twenty years, and I'm currently focused on HTML and CSS. I'm already familiar with Visual Basic and C++.</h3>
+<h3 align="left">I'm from Rosario, Argentina. I've resumed studying programming after twenty years, and I'm currently focused on NodeJS. I'm already familiar with Visual Basic and C++.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
