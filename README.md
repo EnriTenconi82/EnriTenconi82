@@ -13,7 +13,7 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 <h3> Current Proyect</h3>
 - 🔭 I’m currently working on [SePico](https://enritenconi82.github.io/ReactEnryShop/) using 
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
           
 EnriTenconi82/ReactEnryShop
 
